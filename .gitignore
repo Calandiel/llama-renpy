@@ -1,0 +1,26 @@
+*.rpyc
+*.rpyb
+*.rpymc
+*.pyc
+*.pyo
+
+*~
+*.bak
+*.odt#
+
+saves
+tmp
+cache
+env
+_wfCache
+
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+ethumbs.db
+ethumbs_vista.db
+
+
+settings.json
